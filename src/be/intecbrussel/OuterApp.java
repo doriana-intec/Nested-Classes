@@ -24,7 +24,6 @@ public class OuterApp {
 //        AnonymousNoel anonymousNoel = new AnonymousNoel();
 //        anonymousNoel.method();
 
-        Magnum magnum = new Magnum(Magnum.MagnumType.ALPINENUTS);
-        System.out.println(magnum.getMagnumType());
+
     }
 }
